@@ -78,7 +78,7 @@ function highlightTerm($text, $term)
                 <a href="index.php" class="">home</a>
             </div>
             <div class="about">
-                <a href="about.php" class="">About</a>
+                <a href="about.php" class="">Abou</a>
             </div>
 
             <div class="contact">
